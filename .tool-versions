@@ -1,2 +1,4 @@
-nodejs 20.15.1
-pnpm 9.4.0
+# tool.version
+nodejs=20.15.1
+pnpm=9.4.0
+wrangler=3.23.0  # Latest Cloudflare Wrangler version as of 2024-09-02
